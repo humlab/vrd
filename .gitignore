@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.vscode
+.empty
+__pycache__
+
+*.pyc
+
+
